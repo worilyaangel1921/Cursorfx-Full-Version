@@ -238,3 +238,6 @@ This repository serves as the official landing page for CursorFX. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of CursorFX today!**
+
+---
+**Last updated:** 2026-09-12 16:41:08 UTC
