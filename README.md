@@ -240,4 +240,4 @@ This repository serves as the official landing page for CursorFX. The software i
 **Get the most recent version of CursorFX today!**
 
 ---
-**Last updated:** 2026-10-04 22:14:10 UTC
+**Last updated:** 2026-10-05 01:30:25 UTC
